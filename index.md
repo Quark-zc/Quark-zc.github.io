@@ -1,22 +1,13 @@
 ## 欢迎来到我的个人主页
 
-You can use the [editor on GitHub](https://github.com/Quark-zc/Quark-zc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### Hi there 👋
-
 🤓 I'm Lilian Lee 李琳, a Content Strategist | Senior Technical Writer.
 
 I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 ([a Lv7 VIP at Dianping 大众点评](https://m.dianping.com/userprofile/121632876)).
 
 And I love fruit very much. 🍎 🍓 🥭 🥝
 
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
 
-
-### My side projects
+### 个人介绍
 
 1. Collecting and sharing awesome resources about technical communication (tech comm):
 
@@ -30,15 +21,6 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
     - [微信公众号：技术传播那些事儿](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
 
-### Get in touch
-
-[![lilianlee.me](https://img.shields.io/badge/lilianlee.me-orange)](https://lilianlee.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lilian-lee-54305777/)
-[![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/lilianlee90/)
-[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/lilianlee.me/)
-[![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
+### 我的研究方向
 
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
-[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
-
